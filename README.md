@@ -1,6 +1,7 @@
 # Iran_family_income_analysis-_g6
 Iran_family_income_analysis 
-* we have 5 sections : PreprocessingCodes
+* we have 5 sections : 
+* PreprocessingCodes
 * StatsAnalysis  
 * HypothesisTest  
 * Clustering 
